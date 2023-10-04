@@ -1,0 +1,12 @@
+.btn {
+  background-color: black;
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  border: 0px aolid transparent;
+  cursor: pointer;
+}
+
+img {
+  box-shadow: 4px 4px 4px gray;
+}
